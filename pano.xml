@@ -1,105 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour appversion="7.1.7" hassounds="0" start="node4" apprev="20981">
+<tour hassounds="0" apprev="20981" appversion="7.1.7" start="node4">
   <panorama id="node4">
-    <input levelingroll="0" height="1520" overlap="1" leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" levelbias="0.400">
-      <level height="1520" width="1520" predecode="0" preload="0"/>
-      <level height="760" width="760" predecode="0" preload="0"/>
-      <level height="380" width="380" predecode="1" preload="1"/>
+    <input levelingpitch="0" width="1520" levelingroll="0" overlap="1" levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbiashidpi="1.000" height="1520">
+      <level predecode="0" width="1520" preload="0" height="1520"/>
+      <level predecode="0" width="760" preload="0" height="760"/>
+      <level predecode="1" width="380" preload="1" height="380"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view pannorth="0" fovmode="2">
-      <start tilt="-5.85812" fov="100" projection="4" pan="-18.6738"/>
-      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
-      <min tilt="-90" pan="0" fovpixel="2"/>
-      <max tilt="90" fov="140" scaletofit="1" fovfisheye="360" fovstereographic="330" pan="360"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="-18.6738" tilt="-5.85812" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="140" scaletofit="1" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
     </view>
-    <userdata title="Adriana Macchi Advocacia e Assessoria Jurídica" info="" datetime="2025:05:21 00:14:48" comment="" heading="0" longitude="-51.00633667" nodeid="node4" customnodeid="" latitude="-29.92478282" copyright="" source="" author="" description="" tags="OFIII"/>
-    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
-      <label backgroundcolor="0xffffff" bordercolor="0x000000" height="20" textalpha="1" textcolor="0x000000" backgroundalpha="1" background="1" width="180" borderalpha="1" wordwrap="1" enabled="1" border="1" borderradius="1"/>
-      <polystyle backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1"/>
-      <hotspot title="Adriana Macchi Advocacia e Assessoria Jurídica" tilt="0" id="Point01" target="$fwd" pan="-18.4801" skinid="ht_node" distance="3.86425" url="{node3}" description=""/>
+    <userdata heading="0" description="" title="Adriana Macchi Advocacia e Assessoria Jurídica" author="" longitude="-51.00633667" comment="" copyright="" latitude="-29.92478282" source="" tags="OFIII" nodeid="node4" info="" datetime="2025:05:21 00:14:48" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label backgroundalpha="1" width="180" wordwrap="1" borderradius="1" bordercolor="0x000000" border="1" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" enabled="1" background="1" borderalpha="1" height="20"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot pan="-18.4801" tilt="0" target="$fwd" description="" title="Adriana Macchi Advocacia e Assessoria Jurídica" url="{node3}" skinid="ht_node" distance="3.86425" id="Point01"/>
     </hotspots>
     <media/>
-    <transition type="mesh" softedge="0" delay="none" zoomspeed="2" blendtime="1" zoomafterinfov="140" zoomin="7" blendcolor="0x000000" zoomafteroutfov="40" zoomoutpause="1" zoomfov="40" zoomout="0" enabled="1"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control simulatemass="1" dblclickfullscreen="0" sensitivity="8" contextvr="1" lockedmouse="0" hideabout="0" speedwheel="1" invertcontrol="1" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" contextprojections="0"/>
+    <transition blendtime="1" blendcolor="0x000000" zoomfov="40" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafterinfov="140" zoomafteroutfov="40" zoomin="7" type="mesh" softedge="0" enabled="1" delay="none"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertcontrol="1" contextprojections="0" lockedkeyboard="0" contextvr="1" hideabout="0" sensitivity="8" lockedmouse="0" dblclickfullscreen="0" zoomcentercursor="1" contextfullscreen="1" invertwheel="0" rubberband="0" speedwheel="1" lockedwheel="0" simulatemass="1" lockedkeyboardzoom="0"/>
   </panorama>
   <panorama id="node3">
-    <input levelingroll="0" height="1520" overlap="1" leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" levelbias="0.400">
-      <level height="1520" width="1520" predecode="0" preload="0"/>
-      <level height="760" width="760" predecode="0" preload="0"/>
-      <level height="380" width="380" predecode="1" preload="1"/>
+    <input levelingpitch="0" width="1520" levelingroll="0" overlap="1" levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbiashidpi="1.000" height="1520">
+      <level predecode="0" width="1520" preload="0" height="1520"/>
+      <level predecode="0" width="760" preload="0" height="760"/>
+      <level predecode="1" width="380" preload="1" height="380"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view pannorth="-166.731" fovmode="2">
-      <start tilt="0" fov="100" projection="4" pan="0"/>
-      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
-      <min tilt="-90" pan="0" fovpixel="2"/>
-      <max tilt="90" fov="140" scaletofit="1" fovfisheye="360" fovstereographic="330" pan="360"/>
+    <view fovmode="2" pannorth="-166.731">
+      <start fov="100" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="140" scaletofit="1" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
     </view>
-    <userdata title="Adriana Macchi Advocacia e Assessoria Jurídica" info="" datetime="2025:05:21 00:14:48" comment="" heading="-166.731" longitude="-51.00632396" nodeid="node3" customnodeid="" latitude="-29.92474986" copyright="" source="" author="" description="" tags="OFIII"/>
-    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
-      <label backgroundcolor="0xffffff" bordercolor="0x000000" height="20" textalpha="1" textcolor="0x000000" backgroundalpha="1" background="1" width="180" borderalpha="1" wordwrap="1" enabled="1" border="1" borderradius="1"/>
-      <polystyle backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1"/>
-      <hotspot title="Adriana Macchi Advocacia e Assessoria Jurídica" tilt="0" id="Point01" target="$fwd" pan="-5.21107" skinid="ht_node" distance="3.86425" url="{node4}" description=""/>
-      <hotspot title="Adriana Macchi Advocacia e Assessoria Jurídica" tilt="0" id="Point02" target="$fwd" pan="-143.142" skinid="ht_node" distance="3.63153" url="{node1}" description=""/>
+    <userdata heading="-166.731" description="" title="Adriana Macchi Advocacia e Assessoria Jurídica" author="" longitude="-51.00632396" comment="" copyright="" latitude="-29.92474986" source="" tags="OFIII" nodeid="node3" info="" datetime="2025:05:21 00:14:48" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label backgroundalpha="1" width="180" wordwrap="1" borderradius="1" bordercolor="0x000000" border="1" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" enabled="1" background="1" borderalpha="1" height="20"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot pan="-5.21107" tilt="0" target="$fwd" description="" title="Adriana Macchi Advocacia e Assessoria Jurídica" url="{node4}" skinid="ht_node" distance="3.86425" id="Point01"/>
+      <hotspot pan="-143.142" tilt="0" target="$fwd" description="" title="Adriana Macchi Advocacia e Assessoria Jurídica" url="{node1}" skinid="ht_node" distance="3.63153" id="Point02"/>
     </hotspots>
     <media/>
-    <transition type="mesh" softedge="0" delay="none" zoomspeed="2" blendtime="1" zoomafterinfov="140" zoomin="7" blendcolor="0x000000" zoomafteroutfov="40" zoomoutpause="1" zoomfov="40" zoomout="0" enabled="1"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control simulatemass="1" dblclickfullscreen="0" sensitivity="8" contextvr="1" lockedmouse="0" hideabout="0" speedwheel="1" invertcontrol="1" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" contextprojections="0"/>
+    <transition blendtime="1" blendcolor="0x000000" zoomfov="40" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafterinfov="140" zoomafteroutfov="40" zoomin="7" type="mesh" softedge="0" enabled="1" delay="none"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertcontrol="1" contextprojections="0" lockedkeyboard="0" contextvr="1" hideabout="0" sensitivity="8" lockedmouse="0" dblclickfullscreen="0" zoomcentercursor="1" contextfullscreen="1" invertwheel="0" rubberband="0" speedwheel="1" lockedwheel="0" simulatemass="1" lockedkeyboardzoom="0"/>
   </panorama>
   <panorama id="node1">
-    <input levelingroll="0" height="1520" overlap="1" leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" levelbias="0.400">
-      <level height="1520" width="1520" predecode="0" preload="0"/>
-      <level height="760" width="760" predecode="0" preload="0"/>
-      <level height="380" width="380" predecode="1" preload="1"/>
+    <input levelingpitch="0" width="1520" levelingroll="0" overlap="1" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbiashidpi="1.000" height="1520">
+      <level predecode="0" width="1520" preload="0" height="1520"/>
+      <level predecode="0" width="760" preload="0" height="760"/>
+      <level predecode="1" width="380" preload="1" height="380"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view pannorth="-328.414" fovmode="2">
-      <start tilt="0" fov="100" projection="4" pan="0"/>
-      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
-      <min tilt="-90" pan="0" fovpixel="2"/>
-      <max tilt="90" fov="140" scaletofit="1" fovfisheye="360" fovstereographic="330" pan="360"/>
+    <view fovmode="2" pannorth="-328.414">
+      <start fov="100" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="140" scaletofit="1" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
     </view>
-    <userdata title="Adriana Macchi Advocacia e Assessoria Jurídica" info="" datetime="2025:05:21 00:14:48" comment="" heading="-328.414" longitude="-51.00633904" nodeid="node1" customnodeid="" latitude="-29.92471993" copyright="" source="" author="" description="" tags="OFIII"/>
-    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
-      <label backgroundcolor="0xffffff" bordercolor="0x000000" height="20" textalpha="1" textcolor="0x000000" backgroundalpha="1" background="1" width="180" borderalpha="1" wordwrap="1" enabled="1" border="1" borderradius="1"/>
-      <polystyle backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1"/>
-      <hotspot title="Adriana Macchi Advocacia e Assessoria Jurídica" tilt="0" id="Point01" target="$fwd" pan="-484.825" skinid="ht_node" distance="3.63153" url="{node3}" description=""/>
-      <hotspot title="Adriana Macchi Advocacia e Assessoria Jurídica" tilt="0" id="Point02" target="$fwd" pan="-364.062" skinid="ht_node" distance="3.65765" url="{node2}" description=""/>
+    <userdata heading="-328.414" description="" title="Adriana Macchi Advocacia e Assessoria Jurídica" author="" longitude="-51.00633904" comment="" copyright="" latitude="-29.92471993" source="" tags="OFIII" nodeid="node1" info="" datetime="2025:05:21 00:14:48" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label backgroundalpha="1" width="180" wordwrap="1" borderradius="1" bordercolor="0x000000" border="1" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" enabled="1" background="1" borderalpha="1" height="20"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot pan="-484.825" tilt="0" target="$fwd" description="" title="Adriana Macchi Advocacia e Assessoria Jurídica" url="{node3}" skinid="ht_node" distance="3.63153" id="Point01"/>
+      <hotspot pan="-364.062" tilt="0" target="$fwd" description="" title="Adriana Macchi Advocacia e Assessoria Jurídica" url="{node2}" skinid="ht_node" distance="3.65765" id="Point02"/>
     </hotspots>
     <media/>
-    <transition type="mesh" softedge="0" delay="none" zoomspeed="2" blendtime="1" zoomafterinfov="140" zoomin="7" blendcolor="0x000000" zoomafteroutfov="40" zoomoutpause="1" zoomfov="40" zoomout="0" enabled="1"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control simulatemass="1" dblclickfullscreen="0" sensitivity="8" contextvr="1" lockedmouse="0" hideabout="0" speedwheel="1" invertcontrol="1" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" contextprojections="0"/>
+    <transition blendtime="1" blendcolor="0x000000" zoomfov="40" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafterinfov="140" zoomafteroutfov="40" zoomin="7" type="mesh" softedge="0" enabled="1" delay="none"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertcontrol="1" contextprojections="0" lockedkeyboard="0" contextvr="1" hideabout="0" sensitivity="8" lockedmouse="0" dblclickfullscreen="0" zoomcentercursor="1" contextfullscreen="1" invertwheel="0" rubberband="0" speedwheel="1" lockedwheel="0" simulatemass="1" lockedkeyboardzoom="0"/>
   </panorama>
   <panorama id="node2">
-    <input levelingroll="0" height="1520" overlap="1" leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" levelbias="0.400">
-      <level height="1520" width="1520" predecode="0" preload="0"/>
-      <level height="760" width="760" predecode="0" preload="0"/>
-      <level height="380" width="380" predecode="1" preload="1"/>
+    <input levelingpitch="0" width="1520" levelingroll="0" overlap="1" levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbiashidpi="1.000" height="1520">
+      <level predecode="0" width="1520" preload="0" height="1520"/>
+      <level predecode="0" width="760" preload="0" height="760"/>
+      <level predecode="1" width="380" preload="1" height="380"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view pannorth="-204.094" fovmode="2">
-      <start tilt="2.01586" fov="100" projection="4" pan="96.4494"/>
-      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
-      <min tilt="-90" pan="0" fovpixel="2"/>
-      <max tilt="90" fov="140" scaletofit="1" fovfisheye="360" fovstereographic="330" pan="360"/>
+    <view fovmode="2" pannorth="-204.094">
+      <start fov="100" pan="96.4494" tilt="2.01586" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="140" scaletofit="1" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
     </view>
-    <userdata title="Adriana Macchi Advocacia e Assessoria Jurídica" info="" datetime="2025:05:21 00:14:48" comment="" heading="-204.094" longitude="-51.00631692" nodeid="node2" customnodeid="" latitude="-29.92469320" copyright="" source="" author="" description="" tags="OFIII"/>
-    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
-      <label backgroundcolor="0xffffff" bordercolor="0x000000" height="20" textalpha="1" textcolor="0x000000" backgroundalpha="1" background="1" width="180" borderalpha="1" wordwrap="1" enabled="1" border="1" borderradius="1"/>
-      <polystyle backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1"/>
-      <hotspot title="Adriana Macchi Advocacia e Assessoria Jurídica" tilt="0" id="Point01" target="$fwd" pan="-59.7424" skinid="ht_node" distance="3.65765" url="{node1}" description=""/>
+    <userdata heading="-204.094" description="" title="Adriana Macchi Advocacia e Assessoria Jurídica" author="" longitude="-51.00631692" comment="" copyright="" latitude="-29.92469320" source="" tags="OFIII" nodeid="node2" info="" datetime="2025:05:21 00:14:48" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label backgroundalpha="1" width="180" wordwrap="1" borderradius="1" bordercolor="0x000000" border="1" textcolor="0x000000" backgroundcolor="0xffffff" textalpha="1" enabled="1" background="1" borderalpha="1" height="20"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot pan="-59.7424" tilt="0" target="$fwd" description="" title="Adriana Macchi Advocacia e Assessoria Jurídica" url="{node1}" skinid="ht_node" distance="3.65765" id="Point01"/>
     </hotspots>
     <media/>
-    <transition type="mesh" softedge="0" delay="none" zoomspeed="2" blendtime="1" zoomafterinfov="140" zoomin="7" blendcolor="0x000000" zoomafteroutfov="40" zoomoutpause="1" zoomfov="40" zoomout="0" enabled="1"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control simulatemass="1" dblclickfullscreen="0" sensitivity="8" contextvr="1" lockedmouse="0" hideabout="0" speedwheel="1" invertcontrol="1" invertwheel="0" lockedkeyboardzoom="0" rubberband="0" zoomcentercursor="1" lockedwheel="0" contextfullscreen="1" lockedkeyboard="0" contextprojections="0"/>
+    <transition blendtime="1" blendcolor="0x000000" zoomfov="40" zoomspeed="2" zoomout="0" zoomoutpause="1" zoomafterinfov="140" zoomafteroutfov="40" zoomin="7" type="mesh" softedge="0" enabled="1" delay="none"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control invertcontrol="1" contextprojections="0" lockedkeyboard="0" contextvr="1" hideabout="0" sensitivity="8" lockedmouse="0" dblclickfullscreen="0" zoomcentercursor="1" contextfullscreen="1" invertwheel="0" rubberband="0" speedwheel="1" lockedwheel="0" simulatemass="1" lockedkeyboardzoom="0"/>
   </panorama>
   <masternode>
-    <userdata title="" copyright="" comment="" author="" description="" tags=""/>
+    <userdata comment="" copyright="" tags="" description="" title="" author=""/>
     <animationsequences>
       <sequence title="Animation01"/>
     </animationsequences>
